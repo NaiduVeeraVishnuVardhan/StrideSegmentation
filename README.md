@@ -1,0 +1,2 @@
+# StrideSegmentation
+Research Project A
